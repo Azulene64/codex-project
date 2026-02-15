@@ -2,3 +2,10 @@
 .build/
 .swiftpm/
 .DS_Store
+
+# macOS
+.DS_Store
+
+# Xcode user-specific
+**/xcuserdata/
+**/*.xcuserstate
