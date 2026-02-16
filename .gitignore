@@ -9,3 +9,6 @@
 # Xcode user-specific
 **/xcuserdata/
 **/*.xcuserstate
+
+# local backup folders
+sources/ios/iPhoneTrackpadApp/_dupe_backup*/
