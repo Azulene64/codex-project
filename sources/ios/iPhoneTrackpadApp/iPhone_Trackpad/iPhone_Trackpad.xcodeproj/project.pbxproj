@@ -14,22 +14,9 @@
 		E75C0B322F40B3CE00523EF5 /* iPhone_Trackpad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPhone_Trackpad.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		E75C0B4B2F40BB9100523EF5 /* Exceptions for "iPhone_Trackpad" folder in "iPhone_Trackpad" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				iPhoneTrackpadApp.swift,
-			);
-			target = E75C0B312F40B3CE00523EF5 /* iPhone_Trackpad */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		E75C0B342F40B3CE00523EF5 /* iPhone_Trackpad */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				E75C0B4B2F40BB9100523EF5 /* Exceptions for "iPhone_Trackpad" folder in "iPhone_Trackpad" target */,
-			);
 			path = iPhone_Trackpad;
 			sourceTree = "<group>";
 		};
